@@ -1,0 +1,7 @@
+.antlr
+.vscode
+__pycache__
+words
+antlr*
+*.log
+Smali*
